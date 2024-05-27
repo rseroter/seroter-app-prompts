@@ -11,7 +11,7 @@
     },
     {
       "fileName": "package.json",
-      "prompt": "Create a valid package.json for this node.js application."
+      "prompt": "Create a valid package.json for this node.js application. Do not include any comments in the JSON."
     },
     {
       "fileName": "Dockerfile",
