@@ -7,7 +7,7 @@
     },
     {
       "fileName": "index.js",
-      "prompt": "Create a node.js program. It instantiates an employee object that looks like the employee.json structure. Start up a web server and expose a route at /employee return the employee object defined earlier."
+      "prompt": "Create a node.js program. It instantiates an employee object that looks like the employee.json structure. Start up a web server on port 8080 and expose a route at /employee return the employee object defined earlier."
     },
     {
       "fileName": "package.json",
@@ -15,7 +15,7 @@
     },
     {
       "fileName": "Dockerfile",
-      "prompt": "Create a Dockerfile for this node.js application that uses a minimal base image."
+      "prompt": "Create a Dockerfile for this node.js application that uses a minimal base image and exposes the app on port 8080."
     }
   ]
 }
