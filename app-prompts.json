@@ -6,7 +6,7 @@
       "prompt": "Generate a JSON structure for an object with fields for id, full name, state date, and office location. Populate it with sample data. Only return the JSON content and nothing else."
     },
     {
-      "fileName": "app.js",
+      "fileName": "index.js",
       "prompt": "Create a node.js program. It instantiates an employee object that looks like the employee.json structure. Start up a web server and expose a route at /employee return the employee object defined earlier."
     },
     {
