@@ -3,7 +3,7 @@
   "prompts": [
     {
       "fileName": "main.py",
-      "prompt": "Create a Python app with a main function that initializes a firestore database object with project seroter-anthos and no reference to credentials. Add two documents to the Employees collection. Generate random id, fullname, startdate, and location data for each document. Have the start script try to call that main function and if there's an exception, prints the error."
+      "prompt": "Create a Python app with a main function that initializes a firestore database object with project seroter-anthos and Application Default credentials. Add two documents to the Employees collection. Generate random id, fullname, startdate, and location data for each document. Have the start script try to call that main function and if there's an exception, prints the error."
     },
     {
       "fileName": "requirements.txt",
