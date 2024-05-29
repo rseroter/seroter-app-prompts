@@ -8,6 +8,10 @@
     {
       "fileName": "Procfile",
       "prompt": "Create a Procfile for python3 that starts up main.py"
+    },
+    {
+      "fileName": "Dockerfile",
+      "prompt": "Create a Dockerfile for this Python batch application that uses a minimal base image and doesn't expose any ports"
     }
   ]
 }
