@@ -7,7 +7,7 @@
     },
     {
       "fileName": "index.js",
-      "prompt": "Create a node.js program. Start up a web server on port 8080 and expose a route at /employee. Initializes a firestore database object using package @google-cloud/firestore, referencing Google Cloud project 'seroter-anthos' and leveraging Application Default credentials. Return all the documents from the Employee collection."
+      "prompt": "Create a node.js program. Start up a web server on port 8080 and expose a route at /employee. Initializes a firestore database using objects from the @google-cloud/firestore package, referencing Google Cloud project 'seroter-anthos' and leveraging Application Default credentials. Return all the documents from the Employee collection."
     },
     {
       "fileName": "package.json",
