@@ -1,5 +1,5 @@
 {
-  "folder": "generated-app-firestore",
+  "folder": "generated-web-firestore",
   "prompts": [
     {
       "fileName": "employee.json",
